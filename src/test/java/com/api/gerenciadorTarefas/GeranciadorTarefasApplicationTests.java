@@ -1,0 +1,13 @@
+package com.api.gerenciadorTarefas;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class GeranciadorTarefasApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
